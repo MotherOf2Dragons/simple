@@ -1,0 +1,3 @@
+This is a new file, to try out how to edit it and stage and then continue to edit it. What happens?
+
+I staged the file, and then I made changes to the file.
