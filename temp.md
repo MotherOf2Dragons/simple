@@ -1,0 +1,1 @@
+This is a temporary file to show how to rename and move files.
