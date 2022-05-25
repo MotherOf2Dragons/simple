@@ -1,3 +1,21 @@
 This is a new file, to try out how to edit it and stage and then continue to edit it. What happens?
 
 I staged the file, and then I made changes to the file.
+
+When using "git status", this is what I got:
+
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   TestingStaging1.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   TestingStaging1.txt
+
+
+I then added the file, committed, and pushed it. The pushed file was the one with the latest changes.
