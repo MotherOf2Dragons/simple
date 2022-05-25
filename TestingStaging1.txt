@@ -19,3 +19,7 @@ Changes not staged for commit:
 
 
 I then added the file, committed, and pushed it. The pushed file was the one with the latest changes.
+
+When a file is added, it will be staged. If it is then edited afterwards, the file is unstaged again.
+
+Here are some more changes.
